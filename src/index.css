@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  transform: scale(1.4);
+  transform-origin: 0 0;
+  width: 71.43%;
+  height: 71.43%;
+  overflow: hidden;
+}
+
+html, body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
